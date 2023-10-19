@@ -1,0 +1,31 @@
+h1 {
+    color: blueviolet;
+}
+p {color: aquamarine;}
+.title {
+    color: brown;
+    text-align: center;
+}
+/* *- employying one style for all elements */
+.birb {
+    color: gold;
+}
+.link {
+    color: deeppink;
+    font-size: 50px;
+}
+.paragraph {
+    background: blueviolet;
+}
+.box {
+    width: 600px;
+}
+.image {
+    height: 600px;
+}
+.border {
+    width: 3000px;
+    height: 3000px;
+    border: 10px solid orange;
+    background-image: url("https://media.newyorker.com/photos/5a95a5b13d9089123c9fdb7e/1:1/w_3289,h_3289,c_limit/Petrusich-Dont-Mess-with-the-Birds.jpg");
+}
